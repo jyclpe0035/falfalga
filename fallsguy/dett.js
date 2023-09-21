@@ -1,6 +1,6 @@
 //bot token
-var telegram_bot_id =  "5817483450:AAENqH6JQj8b_l4YSKmCEWPgoAhIoCDOOt8";
+var telegram_bot_id =  "5876105317:AAHMD9CSwSCh08VmCaGuRBczWPKIE7dd-do";
 //chat id
-var chat_id ="-5869500944";
+var chat_id ="-1001813138312";
 
 center
